@@ -1,9 +1,9 @@
-package pl.mentoring.devs.secondspringproject;
+package pl.mentoring.devs.secondspringproject.course;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-import pl.mentoring.devs.secondspringproject.model.Course;
+import pl.mentoring.devs.secondspringproject.course.model.Course;
 
 @SpringBootApplication
 public class SecondSpringProjectApplication {

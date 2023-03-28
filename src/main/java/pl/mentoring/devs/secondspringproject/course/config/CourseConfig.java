@@ -1,8 +1,8 @@
-package pl.mentoring.devs.secondspringproject.config;
+package pl.mentoring.devs.secondspringproject.course.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import pl.mentoring.devs.secondspringproject.model.Course;
+import pl.mentoring.devs.secondspringproject.course.model.Course;
 
 import java.util.List;
 
