@@ -1,4 +1,4 @@
-package pl.mentoring.devs.secondspringproject.model;
+package pl.mentoring.devs.secondspringproject.course.model;
 
 import java.util.List;
 
